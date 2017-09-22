@@ -1,0 +1,4 @@
+name: kong-api
+summary: Interface between the Kong server and a (REST) API
+version: 1
+repo: https://github.com/tengu-team/interface-kong-api
